@@ -10,8 +10,5 @@ void instruct(){
 
  main(){
  	instruct();
-	input();
-	merger();
-	roundRobin();
-	printer();
+	
 }
