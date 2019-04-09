@@ -152,7 +152,7 @@ void inputs(){
 }
 
 void instruction(){
-	printf("\n Hello this is Sudhesh Sharma!! \n please follow these instruction for proper functioning of the program"
+	printf("\n \t \t******Hello this is Sudhesh Sharma!!******* \n please follow these instruction for proper functioning of the program"
 			"\n**>Enter the time in 2400 hours format. example for 10:10 am enter 1010"
 			"\n**>Enter the Query arrival times in ascending order that is in real time arrival manner"
 			"\nAll Time units used here are in minutes. \n\n"
